@@ -6,7 +6,6 @@ This repo contains some samples of using Uber open sourced project `Ludwig`. `Lu
 [More about Ludwig](https://uber.github.io/ludwig/)
 
 Code samples for:
-* Binary classification
 * Multi-class classification
 * Simple regression
 * Text classification
